@@ -63,6 +63,9 @@ ul{
     h3 {
         font-size: 18px;
     }
+    .positionTime h3 {
+       font-size: 18px;
+    }
     section {
         margin-bottom: 5px;
     }
